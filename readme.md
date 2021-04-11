@@ -74,7 +74,7 @@ python3 colour.py
 
 ## Contribution Guidelines
 [![PR's Welcome](https://img.shields.io/github/issues-pr-raw/vrushti-mody/Colour-Me)]()
-[![Contributors](https://img.shields.io/github/contributors/vrushti-mody/Colour-Mee)]()
+[![Contributors](https://img.shields.io/github/contributors/vrushti-mody/Colour-Me)]()
 
 If you have suggestions for how Colour-Me could be improved, or want to report a bug, open an issue! Contributions of all kinds are welcomed!
 
